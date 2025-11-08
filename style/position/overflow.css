@@ -1,0 +1,10 @@
+.container {
+  width: 150px;
+  height: 150px;
+  padding: 3px;
+  margin: 3px;
+  background-color: white;
+  font-size: 48px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

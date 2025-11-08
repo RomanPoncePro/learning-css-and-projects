@@ -1,0 +1,22 @@
+section {
+  border: 5px solid black;
+  width: 250px;
+  height: 250px;
+  position: relative;
+}
+section .container {
+  background-color: blue;
+  margin: 0;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+dialog {
+  height: 250px;
+  position: absolute;
+  inset: 0;
+  margin: auto;
+}
